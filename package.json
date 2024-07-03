@@ -1,0 +1,11 @@
+{
+    "name": "yma-series",
+    "version": "1.0.0",
+    "description": "链式调用一系列需要执行的 Callback 的函数",
+    "main": "./src/index.js",
+    "types": "./types/index.d.ts",
+    "scripts": {},
+    "keywords": [],
+    "author": "",
+    "license": "ISC"
+}
