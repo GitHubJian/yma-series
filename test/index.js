@@ -1,6 +1,6 @@
-const createChain = require('../src');
+const createSeries = require('../src');
 
-createChain({
+createSeries({
     data: 0,
 })
     .tap(

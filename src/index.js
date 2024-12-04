@@ -59,8 +59,8 @@ Series.prototype.call = function call(callback) {
     });
 };
 
-function createSeries(state = {}) {
-    return new Series(state);
+function createSeries(context = {}) {
+    return new Series(context);
 }
 
 createSeries.Series = Series;
